@@ -19,11 +19,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/WRsBNbf8Lc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is my first ever project that I have made using swift.
 
 ## License
 
